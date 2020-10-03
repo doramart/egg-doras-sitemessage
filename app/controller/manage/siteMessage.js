@@ -1,7 +1,4 @@
-const xss = require("xss");
 const _ = require('lodash');
-
-
 
 let SiteMessageController = {
 
