@@ -1,6 +1,6 @@
 {
   "name": "egg-doras-sitemessage",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "siteMessage",
   "eggPlugin": {
     "name": "doraSiteMessage"
@@ -11,10 +11,8 @@
     "egg-plugin"
   ],
   "dependencies": {
-    
     "moment": "^2.24.0",
     "lodash": "^4.17.15",
-    "xss": "^1.0.6",
     "egg-doras-reguser": "^1.0.0"
   },
   "devDependencies": {

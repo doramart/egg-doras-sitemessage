@@ -62,7 +62,7 @@ let SiteMessageController = {
      *    "server_time": 1542529985218,
      *    "data": {}
      *}
-     * @apiSampleRequest http://localhost:8080/api/siteMessage/setHasRead
+     * @apiSampleRequest http://localhost:10003/api/siteMessage/setHasRead
      * @apiVersion 1.0.0
      */
     async setMessageHasRead(ctx, app) {
